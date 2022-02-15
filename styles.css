@@ -65,7 +65,7 @@ body{
    position: fixed;
    top: 0;
    opacity: 0;
-   transition: 0.5s;
+   transition: 0.25s;
 }
 
 .hero-heading{
@@ -94,7 +94,7 @@ body{
     padding: 150px 100px 100px;
     position: fixed;
     top: 0;
-    transition: 0.5s;
+    transition: 0.25s;
     opacity: 0;
 }
 
@@ -128,7 +128,8 @@ body{
     top: 0;
     left: 0;
     object-fit: cover;
-    transition: 0.5s;
+    transition: 0.25s;
+    border-radius: 20px;
 }
 
 .project-content{
@@ -193,7 +194,7 @@ body{
     padding: 150px 100px 0;
     position: fixed;
     top: 0;
-    transition: 0.5s;
+    transition: 0.25s;
     opacity: 0;
 }
 
@@ -233,7 +234,7 @@ body{
     font-size: 16px;
     text-transform: capitalize;
     cursor: pointer;
-    transition: 0.5s;
+    transition: 0.25s;
     background: rgba(0, 0, 0, 0.5);
 }
 
